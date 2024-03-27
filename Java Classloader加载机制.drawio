@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T12:51:32.250Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gansMLp7Pkji2c9CxgoU" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T13:26:25.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lGeaj9dP0dT-gTKzDphx" version="24.0.7" type="github">
   <diagram name="第 1 页" id="lm_g9FqyzHLJRaJ5C69l">
-    <mxGraphModel dx="1219" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1276" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wwIve-Fbyaxar20ptfgP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwIve-Fbyaxar20ptfgP-2" target="wwIve-Fbyaxar20ptfgP-5">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wwIve-Fbyaxar20ptfgP-2" target="wwIve-Fbyaxar20ptfgP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-2" value="App Classloader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-2" value="App Classloader&lt;br&gt;加载classpath" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwIve-Fbyaxar20ptfgP-5" target="wwIve-Fbyaxar20ptfgP-7">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" parent="1" source="wwIve-Fbyaxar20ptfgP-5" target="wwIve-Fbyaxar20ptfgP-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwIve-Fbyaxar20ptfgP-5" target="wwIve-Fbyaxar20ptfgP-2">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wwIve-Fbyaxar20ptfgP-5" target="wwIve-Fbyaxar20ptfgP-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-5" value="Extension Classloader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-5" value="Extension Classloader&lt;br&gt;加载lib/ext/*.jar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="550" y="390" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="wwIve-Fbyaxar20ptfgP-7" target="wwIve-Fbyaxar20ptfgP-5">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" parent="1" source="wwIve-Fbyaxar20ptfgP-7" target="wwIve-Fbyaxar20ptfgP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-7" value="Bootstrap Classloader" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-7" value="Bootstrap Classloader&lt;br&gt;加载lib/rt.jar" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="390" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-8" value="交给&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Extension Classloader尝试加载&lt;/span&gt;" style="text;html=1;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;w=2000;fixedWidth=0;imageVerticalAlign=middle;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;imageAspect=1;overflow=width;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-8" value="交给&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Extension Classloader尝试加载&lt;/span&gt;" style="text;html=1;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;w=2000;fixedWidth=0;imageVerticalAlign=middle;align=left;verticalAlign=middle;labelPosition=center;verticalLabelPosition=middle;horizontal=1;imageAspect=1;overflow=width;" parent="1" vertex="1">
           <mxGeometry x="320" y="370" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-9" value="&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;Extension Classloader不会立即加载,而是会先交给&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;Bootstrap Classloader尝试加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;overflow=width;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-9" value="&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;Extension Classloader不会立即加载,而是会先交给&lt;/span&gt;&lt;span style=&quot;text-align: left; text-wrap: wrap;&quot;&gt;Bootstrap Classloader尝试加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;overflow=width;" parent="1" vertex="1">
           <mxGeometry x="710" y="370" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-10" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;未找到,返回给&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Extension Classloader尝试加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;overflow=width;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-10" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;未找到,返回给&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;Extension Classloader尝试加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;overflow=width;" parent="1" vertex="1">
           <mxGeometry x="690" y="438" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wwIve-Fbyaxar20ptfgP-11" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;未找到,返回给&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;App Classloader&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;尝试加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;overflow=width;" vertex="1" parent="1">
+        <mxCell id="wwIve-Fbyaxar20ptfgP-11" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;未找到,返回给&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;App Classloader&lt;/span&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;尝试加载&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;strokeColor=none;fillColor=none;overflow=width;" parent="1" vertex="1">
           <mxGeometry x="310" y="438" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
