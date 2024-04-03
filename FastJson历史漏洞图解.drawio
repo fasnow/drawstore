@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-03T05:33:43.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hokuYS0DGLCIoGnYl54e" version="24.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-03T05:43:32.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="XzU9WF14EMbDyO2pTJ7Q" version="24.2.0" type="github">
   <diagram name="第 1 页" id="BrHA03G-W_aIONTmGHqB">
-    <mxGraphModel dx="3273" dy="1555" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="2138" dy="1244" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -152,8 +152,8 @@
             <mxPoint x="1860" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJFe8LfCxCwkPJLQWvTl-147" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; text-align: left; white-space: pre;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; text-align: left; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;regex&quot;&lt;/span&gt;:{&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; text-align: left; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;$ref&quot;&lt;/span&gt;:&lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;$[blue rlike &#39;^[a-zA-Z]+(([a-zA-Z ])?[a-zA-Z]*)*$&#39;]&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; text-align: left; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; text-align: left; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;blue&quot;&lt;/span&gt;:&lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;aaaaaaaaaaaaaaaaaaaaaaaaaaaa!&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; text-align: left; white-space: pre;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="970" y="1200" width="580" height="120" as="geometry" />
+        <mxCell id="WJFe8LfCxCwkPJLQWvTl-147" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;{&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;regex&quot;&lt;/span&gt;:{&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;$ref&quot;&lt;/span&gt;:&lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;$[blue rlike &#39;^[a-zA-Z]+(([a-zA-Z ])?[a-zA-Z]*)*$&#39;]&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;blue&quot;&lt;/span&gt;:&lt;span style=&quot;color: rgb(163, 21, 21); font-size: 14px;&quot;&gt;&quot;aaaaaaaaaaaaaaaaaaaaaaaaaaaa!&quot;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;align=left;" parent="1" vertex="1">
+          <mxGeometry x="990" y="1330" width="580" height="120" as="geometry" />
         </mxCell>
         <mxCell id="WJFe8LfCxCwkPJLQWvTl-151" value="" style="endArrow=none;html=1;rounded=0;endFill=0;" parent="1" target="WJFe8LfCxCwkPJLQWvTl-150" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -175,6 +175,14 @@
         <mxCell id="WJFe8LfCxCwkPJLQWvTl-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.4;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="WJFe8LfCxCwkPJLQWvTl-158" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="2660" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6waAEHE7Pi9td4LNbUZB-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="6waAEHE7Pi9td4LNbUZB-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="700" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WJFe8LfCxCwkPJLQWvTl-158" value="" style="line;strokeWidth=2;direction=south;html=1;points=[[0,0.5,0,0,0],[0.1,0.5,0,0,0],[0.2,0.5,0,0,0],[0.3,0.5,0,0,0],[0.4,0.5,0,0,0],[0.5,0.5,0,0,0],[0.6,0.5,0,0,0],[0.7,0.5,0,0,0],[0.8,0.5,0,0,0],[0.9,0.5,0,0,0],[1,0.5,0,0,0]];dashed=1;dashPattern=1 4;" parent="1" vertex="1">
@@ -205,6 +213,22 @@
         </mxCell>
         <mxCell id="6waAEHE7Pi9td4LNbUZB-6" value="java.lang.Runnable、java.lang.Readable、java.lang.AutoCloseable&lt;div&gt;加入黑名单&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2060" y="540" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="6waAEHE7Pi9td4LNbUZB-8" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; letter-spacing: 0.544px; white-space: pre;&quot;&gt;&lt;div style=&quot;letter-spacing: normal;&quot;&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); line-height: 19px;&quot;&gt;&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;b&quot;&lt;/span&gt;:{&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;@type&quot;&lt;/span&gt;:&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;Lcom.sun.rowset.JdbcRowSetImpl;&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;dataSourceName&quot;&lt;/span&gt;:&lt;span style=&quot;color: #a31515;&quot;&gt;&quot;ldap://10.0.0.10:1389/srajuc&quot;&lt;/span&gt;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;autoCommit&quot;&lt;/span&gt;: &lt;span style=&quot;color: #a31515;&quot;&gt;&quot;false&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=14;align=left;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1320" width="580" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="6waAEHE7Pi9td4LNbUZB-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="WJFe8LfCxCwkPJLQWvTl-158" target="6waAEHE7Pi9td4LNbUZB-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="700" as="targetPoint" />
+            <mxPoint x="399" y="700" as="sourcePoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6waAEHE7Pi9td4LNbUZB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;curved=0;" edge="1" parent="1" source="6waAEHE7Pi9td4LNbUZB-11" target="6waAEHE7Pi9td4LNbUZB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6waAEHE7Pi9td4LNbUZB-11" value="payload" style="whiteSpace=wrap;html=1;fillColor=default;strokeColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="460" y="680" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
