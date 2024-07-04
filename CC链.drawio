@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" modified="2024-07-04T02:36:16.589Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="W42qQDz7sr1YZSrGPFf-" version="24.6.4" type="github">
+  <diagram name="第 1 页" id="LyvREkKkmvbPpm4uIb8M">
+    <mxGraphModel dx="1022" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-1" value="CC链" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="1120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XG4Mq6DynNq22ekHbbd8-3" target="XG4Mq6DynNq22ekHbbd8-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XG4Mq6DynNq22ekHbbd8-3" target="XG4Mq6DynNq22ekHbbd8-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-3" value="commons-collections:commons-collections:3.1" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="1080" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XG4Mq6DynNq22ekHbbd8-4" target="XG4Mq6DynNq22ekHbbd8-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I7hE4bSODW-F4Eqv488d-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="XG4Mq6DynNq22ekHbbd8-4" target="I7hE4bSODW-F4Eqv488d-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-4" value="org.apache.commons:commons-collections4:4.0" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1170" y="1140" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-5" value="CC1 命令执行&lt;br&gt;sun.reflect.annotation.AnnotationInvocationHandler&amp;nbsp;&lt;br&gt;LazyMap&lt;br&gt;InvokerTransformer" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="910" width="330" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-6" value="CC2 代码执行 &lt;br&gt;java.util.PriorityQueue&lt;br&gt;InvokerTransformer&lt;br&gt;com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="1230" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XG4Mq6DynNq22ekHbbd8-9" value="CC3 代码执行&lt;br&gt;sun.reflect.annotation.AnnotationInvocationHandler&lt;br&gt;Lazy&lt;br&gt;InstantiateTransformer&lt;br&gt;&lt;div&gt;com.sun.org.apache.xalan.internal.xsltc.trax.TrAXFilter&lt;br&gt;com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="1070" width="360" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I7hE4bSODW-F4Eqv488d-2" value="CC4 代码执行 &lt;br&gt;java.util.PriorityQueue&lt;br&gt;InstantiateTransformer&lt;br&gt;com.sun.org.apache.xalan.internal.xsltc.trax.TrAXFilter&lt;br&gt;com.sun.org.apache.xalan.internal.xsltc.trax.TemplatesImpl" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1740" y="1360" width="360" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
